@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&color=black&size=35&center=true&vCenter=true&width=1000&height=150&lines=Olá!%2C+me+chamo+Marcelo+Castelo%3BSeja+Bem-vindo+ao+meu+GitHub!+%3A%29&color=000000&lineHeight=150&startDelay=1000&vCenter=true&width=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&color=black&size=35&center=true&vCenter=true&width=1000&height=150&lines=Olá!+me+chamo+Marcelo+Castelo%3BSeja+Bem-vindo+ao+meu+GitHub!+%3A%29&color=000000&lineHeight=150&startDelay=1000&vCenter=true&width=1000)](https://git.io/typing-svg)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> **Sobre mim**
 
